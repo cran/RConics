@@ -1,14 +1,22 @@
 Package: RConics
 Type: Package
 Title: Computations on Conics
-Version: 1.0
-Date: 2014-02-21
-Author: Emanuel Huber
-Maintainer: Emanuel Huber <emanuel.huber@unibas.ch>
+Version: 1.1.1
+Date: 2022-03-11
+Authors@R: 
+    c(person("Emanuel", "Huber", , "emanuel.huber@pm.me", role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0002-5528-0412")))
+Maintainer: Emanuel Huber <emanuel.huber@pm.me>
 Description: Solve some conic related problems (intersection of conics with lines and conics, arc length of an ellipse, polar lines, etc.). 
 License: GPL (>= 2)
 Encoding: UTF-8
-Packaged: 2014-12-26 12:03:34 UTC; hubere
+Depends: base, R (>= 2.10)
+URL: https://github.com/emanuelhuber/RConics
+BugReports: https://github.com/emanuelhuber/RConics/issues
+RoxygenNote: 7.1.2
+Suggests: conics
 NeedsCompilation: no
+Packaged: 2022-03-11 10:15:58 UTC; huber
+Author: Emanuel Huber [aut, cre] (<https://orcid.org/0000-0002-5528-0412>)
 Repository: CRAN
-Date/Publication: 2014-12-26 14:36:49
+Date/Publication: 2022-03-11 12:00:05 UTC
