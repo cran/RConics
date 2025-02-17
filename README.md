@@ -5,7 +5,6 @@ Based on projective geometry.
 
 **This is an ongoing project.**
 
-To report bugs and contribute to the development of [RGPR](https://emanuelhuber.github.io/RGPR/), see [how to contribute](https://github.com/emanuelhuber/RGPR/blob/master/CONTRIBUTING.md).
 
 **If you have any questions, comments or suggestions, feel free to contact me (in english, french or german):**
 **emanuel.huber@pm.me**
@@ -13,6 +12,9 @@ To report bugs and contribute to the development of [RGPR](https://emanuelhuber.
 
 Thank you!
 
+## Chek the companion website
+
+[https://emanuelhuber.github.io/RConics/](https://emanuelhuber.github.io/RConics/)
 
 ## How to install
 

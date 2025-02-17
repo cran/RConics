@@ -2,7 +2,8 @@
 conicMatrixToEllipse <- function(A){
   if(!all.equal(dim(A),c(3,3))) stop("Conic matrix should be of size 3x3\n")
   # if rank 3 and if detB > 0 => ellipse
-  detB <- A[1,1]*A[2,2] - 2*A[1,2]
+  # detB = the top-left 2×22×2 submatrix of AA,
+  detB <- A[1,1]*A[2,2] - A[1,2]^2
   if(!(qr(A)$rank == 3 && detB > 0)) stop("This is not an ellipse \n")
   b2mac <- (A[1,2]^2-A[1,1]*A[2,2])
   # location

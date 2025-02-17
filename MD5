@@ -1,11 +1,11 @@
-df48626e27a846a0b77bc869ffd38228 *DESCRIPTION
+d1b3c7d94442b9142cde0ca3dfb2c4bf *DESCRIPTION
 ad4491fc27e201efda2d8194ec727fef *NAMESPACE
 05a880caf60d57c6bee0168d2556d1cd *R/RConics.R
 e83087186b3d3b22552c7d85a00a00fd *R/adjoint.R
 821003516ade23940939bce34f3d7c6c *R/arcLengthEllipse.R
 a853174e75ad094da71bff5887bf3135 *R/cofactor.R
 497225553cc05d3d8b1b72b2a773213f *R/colinear.R
-40b2a583a728221cd899e200777891d9 *R/conicMatrixToEllipse.R
+923394ae5c10e0fe0eead91ef828c0bd *R/conicMatrixToEllipse.R
 2fda69c35c7cbca9fdef04e1e5dcb5dc *R/conicThrough5Points.R
 c110bb4fb16490ad950b5bc9a1285394 *R/cubic.R
 8f44dee5e207545319cdfaec206f76fe *R/ellipse.R
@@ -20,7 +20,7 @@ d3c089db89124f2a260c4d859a5183d6 *R/quadraticFormToMatrix.R
 2d682c2288519970426061cac73f6896 *R/skewSymmetricMatrix.R
 5f53af5b507cb8988af020bb42b8a51e *R/splitDegenerateConic.R
 570954690f8710d8185f9db4711187dd *R/transformation.R
-3238e86d858b02285398e40a302e4bc2 *README.md
+70389a99982f3eea71ca20822f0a7fd8 *README.md
 6a7e4f2e9d54415ede848795c78e3967 *man/RConics-package.Rd
 35fb226b379955470c67e11914a699eb *man/adjoint.Rd
 000742c5878f753f697d33da1188024b *man/arcLengthEllipse.Rd
